@@ -1,0 +1,21 @@
+# 忽略编译目录
+build/
+*-build/
+
+# 忽略 Qt 自动生成的代码
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.moc
+
+# 忽略目标文件和可执行文件
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 忽略 Qt Creator 个人配置
+*.user
+*.user.*

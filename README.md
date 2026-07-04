@@ -27,7 +27,7 @@
 - 开发框架：Qt 6（C++）
 - 多媒体支持：Qt Multimedia 模块
 - 界面构建：Qt Widgets（结合 Qt Designer）
-- 构建工具：qmake 或 CMake
+- 构建工具：CMake
 
 ## 编译与运行
 
